@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Adrian! 👋
 
-<!--
-**grsadrian/grsadrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sou um desenvolvedor front-end que está aprendendo sobre back-end almejando me tornar um desenvolvedor full-stack;
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💖 Apaixonado por tecnologia.
+
+## 🛠 Habilidades
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev)
+
+## GitHub Stats
+
+![grsadrian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grsadrian&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grsadrian/)
