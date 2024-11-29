@@ -8,7 +8,7 @@
 
 ## 🛠 Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,linux)](https://skillicons.dev)
 
 ## GitHub Stats
 
