@@ -1,6 +1,6 @@
 # Olá, eu sou o Adrian! 👋
 
-🚀 Sou um desenvolvedor front-end que está aprendendo sobre back-end almejando me tornar um desenvolvedor full-stack;
+🚀 Sou um desenvolvedor full-stack junior que gosta sempre de aprender sobre tecnologia;
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas;
 
@@ -8,7 +8,7 @@
 
 ## 🛠 Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,linux,docker)](https://skillicons.dev)
 
 ## GitHub Stats
 
