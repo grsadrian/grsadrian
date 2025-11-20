@@ -8,7 +8,7 @@
 
 ## 🛠 Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,angular,nodejs,linux,docker)](https://skillicons.dev)
 
 ## GitHub Stats
 
