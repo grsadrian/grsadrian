@@ -27,3 +27,6 @@ Desenvolvedor Back-end focado no ecossistema **.NET / C#**. Atuo no desenvolvime
 ### 📬 Conecte-se comigo
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grsadrian/)
+
+### 📊 Stats
+![GitHub Stats Card](https://ghstats.dev/api/card?username=grsadrian&theme=dracula&hide_title=true)
