@@ -1,26 +1,29 @@
 # Olá, eu sou o Adrian! 👋
-Desenvolvedor Fullstack Jr., atuando com manutenção e melhoria de sistemas utilizando AdvPL (Protheus), Angular e Node.js. Estou em constante evolução para desenvolver aplicações completas do zero, aprofundando meus conhecimentos em boas práticas, arquitetura e desenvolvimento moderno.
+Desenvolvedor Back-end focado no ecossistema **.NET / C#**. Atuo no desenvolvimento, manutenção e integração de sistemas e APIs RESTful, acumulando experiência comercial em ambiente corporativo com C#, Node.js e AdvPL (Protheus). Em constante evolução em arquitetura de software, POO, boas práticas e desenvolvimento moderno.
 
-### 🚀 Tecnologias e Linguagens
-[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,nodejs,postgresql,mysql)](https://skillicons.dev)
-----
-### 🧩 Frameworks
-[![My Skills](https://skillicons.dev/icons?i=angular,express)](https://skillicons.dev)
-----
-### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
-----
-### 🏗️ Infraestrutura
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx)](https://skillicons.dev)
-----
+### 🚀 Linguagens & Back-end
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,js)](https://skillicons.dev)
+
+---
+
+### 🗄️ Bancos de Dados
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
+
+---
+
+### 🛠️ Ferramentas & Práticas
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,rider,postman,docker,linux)](https://skillicons.dev)
+
+---
 
 ### 📚 Sobre mim
-- Formado em Análise e Desenvolvimento de Sistemas.
-- Atualmente aprimorando minhas habilidades em desenvolvimento fullstack.
-- Experiência prática na manutenção de sistemas corporativos.
-- Apaixonado por tecnologia, boas práticas e aprendizado contínuo.
-  
-----
-### 📫 Social
+- 🎓 **Formação:** Graduado em Análise e Desenvolvimento de Sistemas.
+- 💼 **Experiência:** 7 anos em TI, com atuação em desenvolvimento e manutenção de sistemas corporativos em produção.
+- 🎯 **Foco Atual:** Especialização em **C# / .NET**, construindo Web APIs RESTful, aplicando LINQ, POO e persistência de dados.
+- 💡 **Perfil:** Apaixonado por resolução de problemas de negócio, arquitetura limpa, código legível e aprendizado contínuo.
 
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grsadrian/)
+---
+
+### 📬 Conecte-se comigo
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grsadrian/)
